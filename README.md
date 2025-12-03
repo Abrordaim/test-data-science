@@ -6,3 +6,17 @@ Cara Menjalankan Project
    pip install -r requirements.txt
 3. Jalankan Notebook
    jupyter notebook
+
+📚 Tools & Library
+
+Python 3.x
+
+Jupyter Notebook
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Matplotlib (opsional)

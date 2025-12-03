@@ -1,0 +1,35 @@
+# ======================
+# Python & Virtual Env
+# ======================
+venv/
+ENV/
+env/
+.venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# VSCode
+# ======================
+.vscode/
+*.code-workspace
+
+# ======================
+# OS Generated Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Logs & Temp
+# ======================
+*.log
+*.tmp
+*.swp

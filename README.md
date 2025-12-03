@@ -32,9 +32,13 @@ git clone https://github.com/Abrordaim/test-data-science.git
 ```
 ### 2. Buat Virtual Environment
 Disarankan menggunakan Virtual Environment agar library tidak bentrok dengan sistem utama.
-
+- Windows
 ```bash
-python3 -m venv venv
+python -m venv venv
+```
+- Linux
+```bash
+python -m venv venv
 ```
 
 ### 3. Aktifkan Virtual Environment

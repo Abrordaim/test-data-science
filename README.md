@@ -28,7 +28,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di komputer lok
 Unduh source code project ini ke komputer Anda:
 
 ```bash
-git clone https://github.com/Abrordaim/test-data-science.git](https://github.com/Abrordaim/test-data-science.git
+git clone https://github.com/Abrordaim/test-data-science.git
 ```
 ### 2. Buat Virtual Environment
 Disarankan menggunakan Virtual Environment agar library tidak bentrok dengan sistem utama.
@@ -59,15 +59,17 @@ pip install -r requirements.txt
 
 ### 5. Jalankan Notebook
 Anda memiliki dua opsi untuk menjalankan notebook:
-A. Menggunakan Jupyter Notebook (Browser)
+
+#### A. Menggunakan Jupyter Notebook (Browser)
+
 ```bash
 jupyter notebook
 ```
-B. Menggunakan VS Code
+#### B. Menggunakan VS Code
   1. Buka folder project di VS Code.
   2. Pastikan extension Python dan Jupyter sudah terinstall.
   3. Buka file .ipynb.
   4. Pilih Kernel di pojok kanan atas ( Jupyter Kernel -> UTS Data Science).
 
-### Happy Coding! 👨‍💻
+# Happy Coding! 👨‍💻
 
